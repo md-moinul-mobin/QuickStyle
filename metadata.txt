@@ -1,0 +1,12 @@
+[general]
+name=QuickStyle
+qgisMinimumVersion=3.0
+version=1.0
+author=MD Moinul Mobin
+email=mdmoinulmobin@gmail.com
+description=A plugin for quick styling and management of vector layers in QGIS
+about=This plugin provides tools for CRS management, field operations, attribute table access, symbology, labeling, and categorization of vector layers.
+category=Vector
+tags=style,vector,symbology,labeling,categorization,CRS,attribute table, show selected features, add field, quick, label, symbol, categorize, rule based, multiple label
+
+[ini]
