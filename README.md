@@ -1,6 +1,6 @@
 # QuickStyle QGIS Plugin
 
-A powerful and user-friendly QGIS plugin for quick styling and management of vector layers. Streamline your workflow with dozens of easy, time-saving features accessible from a dedicated toolbar.
+QuickStyle is a QGIS plugin that simplifies common styling and layer management tasks. It makes actions easier and faster than QGIS native procedures by reducing unnecessary steps. The plugin combines essential tools for CRS settings, symbology, labeling, categorization, and attribute management, helping GIS professionals save time and work more efficiently.
 
 ![QuickStyle Cover](/docs/images/1.%20Cover%20Page.png)
 
@@ -31,10 +31,12 @@ A powerful and user-friendly QGIS plugin for quick styling and management of vec
 ---
 
 
-<p float="left">
-  <img src="/docs/images/7.a%20Symbology%20Tool%20For%20Point%20Layers.png" width="45%" />
-  <img src="/docs/images/7.b%20Symbology%20Tool%20For%20Line%20&%20Polygon%20Layers.png" width="45%" />
-</p>
+![Symbology Tool for Point Layers](/docs/images/7.a%20Symbology%20Tool%20For%20Point%20Layers.png)
+
+---
+
+
+![Symbology Tool for Line & Polygon Layers](/docs/images/7.b%20Symbology%20Tool%20For%20Line%20&%20Polygon%20Layers.png)
 
 ---
 
